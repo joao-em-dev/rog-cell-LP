@@ -491,9 +491,10 @@ footer .container{
     .area-1 p{
         font-size:18px;
         text-align:left;
+        margin-bottom:40px;
     }
     .grupo{
         width:50%;
-        margin:25px auto;
+        margin:10px auto;
     }
 }
